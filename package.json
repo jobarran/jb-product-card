@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "jb-product-card",
+  "name": "jeb-product-card",
   "author": "Joaquin Barrandeguy",
   "module": "dist/jb-product-card.esm.js",
   "size-limit": [
